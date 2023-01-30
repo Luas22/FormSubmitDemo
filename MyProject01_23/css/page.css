@@ -1,0 +1,30 @@
+.mainWork{background-color: aliceblue;}
+.mainwork2{background-color: aliceblue;}
+.mainwork3{background-color: aliceblue;}
+.mainWork4{background-color: aliceblue;}
+
+.skills {text-align: center; 
+     /* Right-align text */
+     /* Add top padding */
+     /* Add bottom padding */
+     /* White text color */
+  }
+
+  .html {width: 100%; background-color: #04AA6D;}
+  .css{width: 90%; background-color: #04AA6D;}
+  .boot{width: 80%; background-color: #04AA6D;}
+  .js{ width: 70%; background-color: goldenrod;}
+  .sql{width: 65%; background-color: goldenrod;}
+  .mongo{width: 25%; background-color: red;}
+  .react{width: 50%; background-color: goldenrod;}  
+  .c{width: 50%; background-color: goldenrod;}
+  .express{width: 35%; background-color: red;}
+
+
+  .circle{ 
+   height: 400px;
+   width: 400px;
+   border-radius: 50%;
+   display: inline-block;
+   margin-top: 2%;
+  }
